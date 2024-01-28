@@ -4,7 +4,7 @@ This project implements a movie recommendation system using natural language pro
 
 ## Dependencies
 
-- Python 3.x
+- Python 3.8
 - numpy
 - pandas
 - nltk
